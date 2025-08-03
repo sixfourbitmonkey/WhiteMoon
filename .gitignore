@@ -1,0 +1,15 @@
+# Unreal Engine
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs
+.vsconfig
+UpgradeLog.htm
